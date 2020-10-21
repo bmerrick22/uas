@@ -5,6 +5,6 @@ This repository is a collection of programs related to my Software Development f
 
 ## Cited Programs
 The following programs can be credited to the genius and development of the Sarec-Lab research team. These programs allow for the NED velocity vectors to be implemented in the collision avoidance project
-- __init__.py
+- init.py
 - flight_plotter.py
 - ned_utilities.py
